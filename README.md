@@ -1,7 +1,4 @@
 
-
----
-
 ### Hi there, I'm Franc! 👋
 
 👋 Hi, I’m @franc-19  
@@ -25,6 +22,20 @@
 ⚡ Fun fact: I can solve a Rubik's Cube in under two minutes!.
 
 
+
+### 📊 GitHub Stats:
+![Franc's GitHub stats](https://github-readme-stats.vercel.app/api?username=franc-19&show_icons=true&theme=dark)
+
+### 🔝 Top Contributed Repos:
+<a href="https://github.com/franc-19/repo-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=franc-19&repo=repo-1&theme=dark" />
+</a>
+<a href="https://github.com/franc-19/repo-2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=franc-19&repo=repo-2&theme=dark" />
+</a>
+
+
+---
 
 <!---
 franc-19/franc-19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
