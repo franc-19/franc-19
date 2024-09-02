@@ -27,11 +27,11 @@
 ![Franc's GitHub stats](https://github-readme-stats.vercel.app/api?username=franc-19&show_icons=true&theme=dark)
 
 ### 🔝 Top Contributed Repos:
-<a href="https://github.com/franc-19/repo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=franc-19&repo=repo-1&theme=dark" />
+<a href="https://github.com/franc-19">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=franc-&theme=dark" />
 </a>
-<a href="https://github.com/franc-19/repo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=franc-19&repo=repo-2&theme=dark" />
+<a href="https://github.com/franc-19">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=franc-19&theme=dark" />
 </a>
 
 
