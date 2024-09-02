@@ -24,7 +24,7 @@
 
 
 ### 📊 GitHub Stats:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=franc-19&repo=example-repo&theme=dark)](https://github.com/franc-19/example-repo)
+![Franc's GitHub stats](https://github-readme-stats.vercel.app/api?username=franc-19&show_icons=true&theme=dark)
 
 ### 🔝 Top Contributed Repos:
 <a href="https://github.com/franc-19/repo-1">
@@ -33,8 +33,6 @@
 <a href="https://github.com/franc-19/repo-2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=franc-19&repo=repo-2&theme=dark" />
 </a>
-
-### 🔝 Top Contributed Repos:
 
 ---
 
