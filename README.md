@@ -17,7 +17,7 @@
 
 💞️ I’m looking to collaborate on open-source projects, innovative web applications, and any tech-based initiatives where I can contribute my coding expertise.
 
-📫 How to reach me: [ofranc929@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-Franc-Otieno)
+📫 How to reach me: [ofranc929@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/franc-otieno-673736219/)
 
 😄 Pronouns: He/Him
 
