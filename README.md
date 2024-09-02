@@ -21,7 +21,7 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I can solve a Rubik's Cube in under two minutes!
+⚡ Fun fact: I can solve a Rubik's Cube in under two minutes!.
 
 ---
 
