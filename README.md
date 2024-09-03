@@ -27,8 +27,9 @@
 ![Franc's GitHub stats](https://github-readme-stats.vercel.app/api?username=franc-19&show_icons=true&theme=dark)
 
 ### 🔝 Top Contributed Repos:
-
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=franc-19&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
 [![](https://visitcount.itsvg.in/api?id=ranc-19&icon=0&color=0)](https://visitcount.itsvg.in)
