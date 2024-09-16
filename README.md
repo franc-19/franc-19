@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" width="400" height="300"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=franc-19&label=Profile%20views&color=0e75b6&style=flat" alt="franc-19" /> </p>
+<p align="left"> <img src=""C:\Users\ofran\Downloads\franc.jpg"" alt="franc-19" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://file:///C:/Users/ofran/Downloads/Your%20profile_files/133057947(2)/?username=franc-19" alt="franc-19" /></a> </p>
 
