@@ -5,7 +5,11 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" width="400" height="300"/>
 </p>
 
+<<<<<<< HEAD
 <p align="left"> <img src="C:images/franc.jpg" alt="franc-19" /> </p>
+=======
+<p align="left"> <img src="C:\Users\ofran\Downloads\franc.jpg" alt="franc-19" /> </p>
+>>>>>>> 85a5f514f04209c41623dac6f6c1ab9d649e44b6
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://file:///C:/Users/ofran/Downloads/Your%20profile_files/133057947(2)/?username=franc-19" alt="franc-19" /></a> </p>
 
