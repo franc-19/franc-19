@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **python, c, c++, java, HTML, CSS, React**
 
-- 📫 How to reach me **ofranc929@gmail.com [LinkedIn](https://www.linkedin.com/in/franc-otieno-673736219/)**
+- 📫 How to reach me **ofranc929@gmail.com      [LinkedIn](https://www.linkedin.com/in/franc-otieno-673736219/)**
 
 - ⚡ Fun fact **I can solve a Rubik's Cube in under two minutes!**
 
