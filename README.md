@@ -14,8 +14,10 @@
 - 📫 How to reach me **ofranc929@gmail.com      [LinkedIn](https://www.linkedin.com/in/franc-otieno-673736219/)**
 
 - ⚡ Fun fact **I can solve a Rubik's Cube in under two minutes!**
+ <a href="https://www.buymeacoffee.com/franc19" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #FFDD00; color: #000; text-decoration: none; border-radius: 5px;">
+    Buy Me a Coffee
+</a>
 
-- [Buy Me a Coffee](https://buymeacoffee.com/franc19)
 <h1 align="center">Hi 👋, I'm Franc</h1>
 <h3 align="center">👀 I’m interested in exploring the vast world of technology and constantly learning new skills. My main areas of interest include software development, web development, and system design.</h3>
 .
