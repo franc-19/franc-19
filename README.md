@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I can solve a Rubik's Cube in under two minutes!**
 
-- [Buy Me a Coffee](https://www.buymeacoffee.com/franc-19)
+- [Buy Me a Coffee](https://www.buymeacoffee.com/franc19)
 
 
 <h3 align="left">Connect with me:</h3>
