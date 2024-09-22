@@ -18,27 +18,6 @@
     Buy Me a Coffee
 </a>
 
-<h1 align="center">Hi 👋, I'm Franc</h1>
-<h3 align="center">👀 I’m interested in exploring the vast world of technology and constantly learning new skills. My main areas of interest include software development, web development, and system design.</h3>
-.
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" width="400" height="300"/>
-</p>
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://file:///C:/Users/ofran/Downloads/Your%20profile_files/133057947(2)/?username=franc-19" alt="franc-19" /></a> </p>
-
-- 💬 Ask me about **python, c, c++, java, HTML, CSS, React**
-
-- 📫 How to reach me **ofranc929@gmail.com      [LinkedIn](https://www.linkedin.com/in/franc-otieno-673736219/)**
-
-- ⚡ Fun fact **I can solve a Rubik's Cube in under two minutes!**
-
--   [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/guidelines/download.png)](https://buymeacoffee.com/franc19)
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
