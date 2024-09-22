@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Franc</h1>
 <h3 align="center">👀 I’m interested in exploring the vast world of technology and constantly learning new skills. My main areas of interest include software development, web development, and system design.</h3>
-.
+..
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" width="400" height="300"/>
 </p>
