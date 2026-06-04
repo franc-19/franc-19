@@ -66,3 +66,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franc-19&show_icons=true&locale=en" alt="franc-19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franc-19&" alt="franc-19" /></p>
+
+<img src="https://github-trophies.vercel.app/?username=M20Jay&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+
+![Snake](https://raw.githubusercontent.com/M20Jay/M20Jay/output/github-contribution-grid-snake-dark.svg)
